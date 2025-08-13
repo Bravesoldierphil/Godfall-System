@@ -1,0 +1,15 @@
+{
+  "id": "Godfall",
+  "title": "Godfall system",
+  "description": "The.....",
+  "authors": [
+    {
+    "name": "Phil"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+}
