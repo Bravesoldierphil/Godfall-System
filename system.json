@@ -1,10 +1,10 @@
 {
-  "id": "LSCRPG",
-  "title": "Leovaunt's Starcraft Roleplaying Game",
-  "description": "a system for playing an RPG in the Starcraft setting",
+  "id": "",
+  "title": "",
+  "description": "",
   "authors": [
     {
-      "name": "K'Braid"
+      "name": ""
       }
     ],
   "version": 0.1,
@@ -13,10 +13,10 @@
     "verified": 13
   },
   "esmodules": [
-    "LSCRPG.js"
+    ".js"
   ],
   "styles":[
-    "LSCRPG.css"
+    ".css"
   ],
   "languages":[],
   "packs": []

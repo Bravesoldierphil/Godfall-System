@@ -1,1 +1,0 @@
-credits: Leovaunt-system designer, ChaosOS-mentor, Mana-mentor, joaquinp98-mentor, CalinStar-mentor, Zhell-mentor
